@@ -6,5 +6,5 @@
   <li>I want to major in computer science with focus on data science and AI or cybersecurity</li>
 </ul>
 
- <a href="austinalberd.com"></a>
+ <a href="austinalberd.com">My Personal Website</a>
  
