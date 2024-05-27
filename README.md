@@ -1,10 +1,7 @@
 <h1>Austin's Github Home Page</h1>
 <hr>
 <h2>About Me</h2>
-<ul>
-  <li>I am a high school student enrolled at Austin Peay Univerity</li>
-  <li>I want to major in computer science with focus on data science and AI or cybersecurity</li>
-</ul>
+<p> I am a self taught full stack developer who specializes in back end development. I am always looking for a new challenging project!</p>
 
 <h2>Technologies I work With</h2>
 <ul>
